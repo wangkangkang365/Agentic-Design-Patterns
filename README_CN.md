@@ -33,13 +33,13 @@
 ├── 📚 Agentic_Design_Patterns_Complete.pdf   # 完整书籍（424 页）
 ├── 💻 chapter_notebooks/                     # 章节代码笔记本
 │   ├── chapter_01_prompt_chaining/           # 第1章：提示链
-│   │   ├── ch01_code_example.ipynb
-│   │   ├── ch01_json_example.ipynb
-│   │   └── ch01_summary.md
+│   │   ├── ch01_prompt_chaining_code_example.ipynb
+│   │   ├── ch01_prompt_chaining_json_example.ipynb
+│   │   └── ch01_prompt_chaining_summary.md
 │   ├── chapter_02_routing/                   # 第2章：路由
-│   │   ├── ch02_google_adk.ipynb
-│   │   ├── ch02_langgraph.ipynb
-│   │   └── ch02_openrouter.ipynb
+│   │   ├── ch02_routing_google_adk.ipynb
+│   │   ├── ch02_routing_langgraph.ipynb
+│   │   └── ch02_routing_openrouter.ipynb
 │   ├── chapter_03_parallelization/           # 第3章：并行化
 │   ├── chapter_04_reflection/                # 第4章：反思
 │   ├── chapter_05_tool_use/                  # 第5章：工具使用
@@ -174,7 +174,7 @@ jupyter notebook
 cd chapter_notebooks
 
 # 启动特定笔记本
-jupyter notebook chapter_01_prompt_chaining/ch01_code_example.ipynb
+jupyter notebook chapter_01_prompt_chaining/ch01_prompt_chaining_code_example.ipynb
 ```
 
 ## 📖 如何使用本仓库
