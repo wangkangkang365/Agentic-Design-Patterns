@@ -1,5 +1,7 @@
 # 📚 智能体设计模式 - 构建智能系统的实践指南
 
+> **Fork 自 [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)**
+
 [![书籍](https://img.shields.io/badge/书籍-预售-blue)](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
 [![作者](https://img.shields.io/badge/作者-Antonio%20Gulli-green)](https://www.linkedin.com/in/searchguy/)
 [![慈善](https://img.shields.io/badge/版税-捐赠儿童救助会-red)](https://www.savethechildren.org/)
@@ -7,7 +9,7 @@
 
 ## 📖 关于本仓库
 
-本仓库包含 **《智能体设计模式：构建智能系统的实践指南》** 的完整学习材料，作者为 Antonio Gulli。包含 PDF 格式的所有章节以及配套的代码笔记本，用于实践学习。
+本仓库 Fork 自原作者 **Antonio Gulli** 的项目，包含 **《智能体设计模式：构建智能系统的实践指南》** 的完整学习材料。包含 PDF 格式的所有章节以及配套的代码笔记本，用于实践学习。
 
 > **注意**：所有作者版税均捐赠给 Save the Children（儿童救助会）💝
 
@@ -193,7 +195,8 @@ jupyter notebook Chapter_01_Prompt_Chaining_(Code_Example).ipynb
 
 ## 📚 附加资源
 
-### 官方链接
+### 原始项目
+- 📁 [原始项目仓库](https://github.com/evoiz/Agentic-Design-Patterns)
 - 📖 [预购书籍](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
 - 👨‍💼 [作者 LinkedIn](https://www.linkedin.com/in/searchguy/)
 - 📁 [原始 Google Drive 材料](https://drive.google.com/drive/u/0/folders/1Y3U3IrYCiJ3E45Z8okR5eCg7OPnWQtPV)

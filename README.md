@@ -1,5 +1,7 @@
 # 📚 Agentic Design Patterns - A Hands-On Guide to Building Intelligent Systems
 
+> **Forked from [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)**
+
 [![Book](https://img.shields.io/badge/Book-Pre--order-blue)](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
 [![Author](https://img.shields.io/badge/Author-Antonio%20Gulli-green)](https://www.linkedin.com/in/searchguy/)
 [![Charity](https://img.shields.io/badge/Royalties-Save%20the%20Children-red)](https://www.savethechildren.org/)
@@ -7,7 +9,7 @@
 
 ## 📖 About This Repository
 
-This repository contains the complete materials for **"Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems"** by Antonio Gulli. It includes all chapters in PDF format and accompanying code notebooks for hands-on learning.
+This repository is a fork of the original project by **Antonio Gulli**, containing the complete materials for **"Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems"**. It includes all chapters in PDF format and accompanying code notebooks for hands-on learning.
 
 > **Note**: All author royalties are donated to Save the Children 💝
 
@@ -191,7 +193,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📚 Additional Resources
 
-### Official Links
+### Original Project
+- 📁 [Original Repository](https://github.com/evoiz/Agentic-Design-Patterns)
 - 📖 [Pre-order the Book](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
 - 👨‍💼 [Author's LinkedIn](https://www.linkedin.com/in/searchguy/)
 - 📁 [Original Google Drive Materials](https://drive.google.com/drive/u/0/folders/1Y3U3IrYCiJ3E45Z8okR5eCg7OPnWQtPV)
