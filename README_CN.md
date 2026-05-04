@@ -33,13 +33,13 @@
 ├── 📚 Agentic_Design_Patterns_Complete.pdf   # 完整书籍（424 页）
 ├── 💻 chapter_notebooks/                     # 章节代码笔记本
 │   ├── chapter_01_prompt_chaining/           # 第1章：提示链
-│   │   ├── code_example.ipynb
-│   │   ├── json_example.ipynb
-│   │   └── summary.md
+│   │   ├── ch01_code_example.ipynb
+│   │   ├── ch01_json_example.ipynb
+│   │   └── ch01_summary.md
 │   ├── chapter_02_routing/                   # 第2章：路由
-│   │   ├── google_adk.ipynb
-│   │   ├── langgraph.ipynb
-│   │   └── openrouter.ipynb
+│   │   ├── ch02_google_adk.ipynb
+│   │   ├── ch02_langgraph.ipynb
+│   │   └── ch02_openrouter.ipynb
 │   ├── chapter_03_parallelization/           # 第3章：并行化
 │   ├── chapter_04_reflection/                # 第4章：反思
 │   ├── chapter_05_tool_use/                  # 第5章：工具使用
@@ -60,9 +60,8 @@
 │   ├── chapter_20_prioritization/            # 第20章：优先级
 │   ├── chapter_21_exploration/               # 第21章：探索
 │   └── appendix/                             # 附录
-│       ├── advanced_prompting_techniques.ipynb
-│       ├── ai_agentic_gui_to_real_world.ipynb
-│       ├── quick_overview_agentic_frameworks.ipynb
+│       ├── appendix_a_advanced_prompting_techniques.ipynb
+│       ├── appendix_b_ai_agentic_gui_to_real_world.ipynb
 │       └── ...
 └── 📄 demo.py                                # 演示脚本
 ```
@@ -175,7 +174,7 @@ jupyter notebook
 cd chapter_notebooks
 
 # 启动特定笔记本
-jupyter notebook chapter_01_prompt_chaining/code_example.ipynb
+jupyter notebook chapter_01_prompt_chaining/ch01_code_example.ipynb
 ```
 
 ## 📖 如何使用本仓库
