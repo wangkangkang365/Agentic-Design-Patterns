@@ -32,14 +32,38 @@
 ├── 📄 README_CN.md                           # 中文说明文件（本文件）
 ├── 📚 Agentic_Design_Patterns_Complete.pdf   # 完整书籍（424 页）
 ├── 💻 chapter_notebooks/                     # 章节代码笔记本
-│   ├── Chapter_01_Prompt_Chaining_*.ipynb
-│   ├── Chapter_02_Routing_*.ipynb
-│   ├── Chapter_03_Parallelization_*.ipynb
-│   ├── ...
-│   ├── Chapter_21_Exploration_Discovery_*.ipynb
-│   ├── Appendix_A_*.ipynb
-│   ├── ...
-│   └── Appendix_G_*.ipynb
+│   ├── chapter_01_prompt_chaining/           # 第1章：提示链
+│   │   ├── code_example.ipynb
+│   │   ├── json_example.ipynb
+│   │   └── summary.md
+│   ├── chapter_02_routing/                   # 第2章：路由
+│   │   ├── google_adk.ipynb
+│   │   ├── langgraph.ipynb
+│   │   └── openrouter.ipynb
+│   ├── chapter_03_parallelization/           # 第3章：并行化
+│   ├── chapter_04_reflection/                # 第4章：反思
+│   ├── chapter_05_tool_use/                  # 第5章：工具使用
+│   ├── chapter_06_planning/                  # 第6章：规划
+│   ├── chapter_07_multi_agent/               # 第7章：多智能体
+│   ├── chapter_08_memory/                    # 第8章：记忆管理
+│   ├── chapter_09_adaptation/                # 第9章：适应
+│   ├── chapter_10_mcp/                       # 第10章：MCP
+│   ├── chapter_11_goal_setting/              # 第11章：目标设定
+│   ├── chapter_12_exception_handling/        # 第12章：异常处理
+│   ├── chapter_13_human_in_the_loop/         # 第13章：人在回路
+│   ├── chapter_14_knowledge_retrieval/       # 第14章：知识检索
+│   ├── chapter_15_inter_agent/               # 第15章：智能体间通信
+│   ├── chapter_16_resource_optimization/     # 第16章：资源优化
+│   ├── chapter_17_reasoning/                 # 第17章：推理
+│   ├── chapter_18_guardrails/                # 第18章：护栏
+│   ├── chapter_19_evaluation/                # 第19章：评估
+│   ├── chapter_20_prioritization/            # 第20章：优先级
+│   ├── chapter_21_exploration/               # 第21章：探索
+│   └── appendix/                             # 附录
+│       ├── advanced_prompting_techniques.ipynb
+│       ├── ai_agentic_gui_to_real_world.ipynb
+│       ├── quick_overview_agentic_frameworks.ipynb
+│       └── ...
 └── 📄 demo.py                                # 演示脚本
 ```
 
@@ -146,12 +170,12 @@ jupyter notebook
 4. 按顺序运行单元格以获得最佳学习体验
 
 ### 示例：运行第 1 章
-```python
+```bash
 # 进入笔记本目录
 cd chapter_notebooks
 
 # 启动特定笔记本
-jupyter notebook Chapter_01_Prompt_Chaining_(Code_Example).ipynb
+jupyter notebook chapter_01_prompt_chaining/code_example.ipynb
 ```
 
 ## 📖 如何使用本仓库

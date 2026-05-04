@@ -29,16 +29,19 @@ This comprehensive guide covers 21 chapters and 7 appendices on building intelli
 ```
 .
 ├── 📄 README.md                           # This file
-├── 📚 book/
-│   └── Agentic_Design_Patterns_Complete.pdf  # Complete book (424 pages)
-├── 💻 chapter_notebooks/                          # Chapter 
-│   ├── Chapter_01_Prompt_Chaining.ipynb
-│   ├── Chapter_02_Routing.ipynb
-│   ├── Chapter_03_Parallelization.ipynb
+├── 📄 README_CN.md                        # Chinese README
+├── 📚 Agentic_Design_Patterns_Complete.pdf  # Complete book (424 pages)
+├── 💻 chapter_notebooks/                  # Chapter notebooks (organized by chapter)
+│   ├── chapter_01_prompt_chaining/
+│   │   ├── code_example.ipynb
+│   │   ├── json_example.ipynb
+│   │   └── summary.md
+│   ├── chapter_02_routing/
+│   ├── chapter_03_parallelization/
 │   ├── ...
-│   └── Appendix_G_Coding_Agents.ipynb
-
-
+│   ├── chapter_21_exploration/
+│   └── appendix/
+└── 📄 demo.py                             # Demo script
 ```
 
 ## 📚 Table of Contents
